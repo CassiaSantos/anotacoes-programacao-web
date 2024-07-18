@@ -19,3 +19,6 @@ h1, h2, h3 {} --> estilo será aplicado para todos esses elementos */
 
 /* 
 .classe.tag --> estilo será aplicado somente quando os elementos estiverem nesta ordem. */
+
+
+MEDIAS QUERY:
