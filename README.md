@@ -32,3 +32,12 @@ Crie um website institucional de alguma empresa, projeto ou instituição que vo
 Lembre-se, ao final, deve ser enviado via SIGAA o link para o repositório do github criado.
 
 O repositório deve estar público ou deve ser adicionado o e-mail do professor rennanmaia@gmail.com como mantenedor do projeto para que possa ser feita avaliação. Os repositórios inacessíveis serão desconsiderados para nota.
+
+
+* serviço de s3 ou i3
+* servidor é software;
+* banco de dados é um servidor pois é um software que entrega um servidor;
+* MVC - model view controller - arquitetura multi dividida
+* model - persistencia - servidor
+* view - GUI - parte no servidor e parte no cliente
+* controller -  servidor e cliente
